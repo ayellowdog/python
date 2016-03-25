@@ -1,0 +1,93 @@
+﻿生成启动时间为 2015/8/9 15:33:25。
+     1>项目“C:\Users\Administrator\Downloads\CH-HCNetSDK(Windows32)V5.1.1.3\CH-HCNetSDK(Windows32)V5.1.1.3\Demo示例\2- MFC分功能示例\演示版之_4元线阵\RealPlay.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"../../../头文件/" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\RealPlay.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         ======== Welcome to use our art company's products!
+         ======== Automatically linking with PCI8018_32.dll...
+         ======== Successfully linked with PCI8018_32.dll
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"../../../头文件/" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\RealPlay.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ADThread.cpp DlgPTZCruise.cpp GlobalVar.cpp PTZButton.cpp RealPlay.cpp RealPlayDlg.cpp
+         RealPlayDlg.cpp
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(329): warning C4101: “dTmp”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(488): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(497): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(507): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(523): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(534): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(791): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(843): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(854): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(1543): warning C4101: “dTmp”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(1565): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(1574): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(1615): warning C4101: “nRandNum”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplaydlg.cpp(1614): warning C4101: “time”: 未引用的局部变量
+         RealPlay.cpp
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\realplay.cpp(56): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxwin.h(5361) : 参见“CWinApp::Enable3dControls”的声明
+         PTZButton.cpp
+         GlobalVar.cpp
+         DlgPTZCruise.cpp
+         ADThread.cpp
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(83): warning C4101: “dTmp”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(176): warning C4101: “dTmp”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(453): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(459): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(484): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(485): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(486): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(487): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(511): warning C4244: “参数”: 从“float”转换到“WPARAM”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(493): warning C4101: “s”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(472): warning C4101: “fVolt”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(471): warning C4101: “ADData”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(586): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(567): warning C4101: “temp”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(564): warning C4101: “Energy”: 未引用的局部变量
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\adthread.cpp(567): warning C4101: “cov_x”: 未引用的局部变量
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"../../../头文件/" /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt fft.cpp
+         fft.cpp
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\fft.cpp(55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\fft.cpp(57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\fft.cpp(59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\fft.cpp(91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\downloads\ch-hcnetsdk(windows32)v5.1.1.3\ch-hcnetsdk(windows32)v5.1.1.3\demo示例\2- mfc分功能示例\演示版之_4元线阵\fft.cpp(97): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0804" /nologo /fo"Debug\RealPlay.res" RealPlay.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug/RealPlay.exe" /INCREMENTAL /NOLOGO /LIBPATH:"../../../库文件/" /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\lib\Win32" HCNetSDK.lib ws2_32.lib cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"Debug\RealPlay.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\RealPlay.lib" /MACHINE:X86 /SAFESEH Debug\RealPlay.res
+         .\Debug\ADThread.obj
+         .\Debug\DlgPTZCruise.obj
+         .\Debug\fft.obj
+         .\Debug\GlobalVar.obj
+         .\Debug\PTZButton.obj
+         .\Debug\RealPlay.obj
+         .\Debug\RealPlayDlg.obj
+         .\Debug\StdAfx.obj
+     1>ADThread.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         RealPlay.vcxproj -> C:\Users\Administrator\Downloads\CH-HCNetSDK(Windows32)V5.1.1.3\CH-HCNetSDK(Windows32)V5.1.1.3\Demo示例\2- MFC分功能示例\演示版之_4元线阵\Debug\RealPlay.exe
+       PostBuildEvent:
+         echo copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "Debug\"
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "Debug\"
+         :VCEnd
+         copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart*.dll" "Debug\"
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart32_70.dll
+         C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin\cudart64_70.dll
+         已复制         2 个文件。
+     1>已完成生成项目“C:\Users\Administrator\Downloads\CH-HCNetSDK(Windows32)V5.1.1.3\CH-HCNetSDK(Windows32)V5.1.1.3\Demo示例\2- MFC分功能示例\演示版之_4元线阵\RealPlay.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.23
